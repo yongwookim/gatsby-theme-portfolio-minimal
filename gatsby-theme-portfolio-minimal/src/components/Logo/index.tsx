@@ -14,7 +14,7 @@ export function Logo(props: LogoProps): React.ReactElement {
 
     return (
         <div className={classes.Logo} aria-roledescription="logo" style={{ fontSize, color }}>
-            {siteConfiguration.logo.text}
+          THIS IS TEST
         </div>
     );
 }
